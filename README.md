@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weather App
 
 > A simple Website for getting weather update for particular region
