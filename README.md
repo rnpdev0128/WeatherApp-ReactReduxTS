@@ -2,7 +2,7 @@
 
 > A simple Website for getting weather update for particular region
 
-<img width="1912" height="713" alt="demo" src="https://github.com/user-attachments/assets/a88a0340-5883-4467-b103-13157b1e05bc" />
+<img width="1912" height="713" alt="demo" src="https://github.com/rnpdev0128/WeatherApp-ReactReduxTS" />
 
 # Local Setup
 
